@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out.json
+pip_log.txt
+.venv/
+env/
